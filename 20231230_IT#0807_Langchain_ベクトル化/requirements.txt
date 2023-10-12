@@ -1,0 +1,7 @@
+langchain
+openai
+atlassian-python-api
+beautifulsoup4
+lxml
+chromadb
+tiktoken
